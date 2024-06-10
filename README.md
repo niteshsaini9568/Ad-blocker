@@ -1,2 +1,2 @@
 # simple-ad-blocker
-A simple ad blocker extension
+I developed the **Ad Blocker** Chrome extension to enhance user browsing by effectively blocking intrusive advertisements. This extension leverages the latest Chrome Manifest V3 for secure and efficient ad blocking, using the DeclarativeNetRequest API to apply predefined rules seamlessly. By integrating professionally designed icons and utilizing a straightforward setup, the **Ad Blocker** provides a clean, fast, and focused browsing experience without the hassle of complex configurations. It's a user-friendly tool that not only improves page load times but also boosts privacy by minimizing ad tracking, offering a smoother and more enjoyable web experience.
